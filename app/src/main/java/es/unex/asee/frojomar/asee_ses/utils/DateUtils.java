@@ -12,6 +12,9 @@ import java.util.Locale;
 import java.util.TimeZone;
 
 public class DateUtils {
+
+    // Simulacion de la implementacion del caso de uso 16 - Rol: AS
+    // Simulacion de la implementacion del caso de uso 16 - Rol: DS
     // Simulacion de la implementacion del caso de uso 15 - Rol: AS
     // Simulacion de la implementacion del caso de uso 15 - Rol: DS
     //private static final String FORMAT_DATE="dd-MMM-yyyy,hh:mm aa";
